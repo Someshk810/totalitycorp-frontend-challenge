@@ -20,4 +20,9 @@ This repository contains the codebase for an E-commerce website developed using 
 **4- JavaScript**: A versatile programming language that adds interactivity and dynamic 
     behavior to web pages and applications.  
 **5- Styled Components:** A library in React.js that enables styling by writing CSS code within 
-    JavaScript components, enhancing modularity and encapsulation.  
+    JavaScript components, enhancing modularity and encapsulation.
+## API Link
+   https://api.pujakaitem.com/api/products
+   - Above API is used to fetch the products data 
+     
+    
