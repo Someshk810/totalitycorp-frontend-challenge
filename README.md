@@ -1,1 +1,1 @@
-# totalitycorp-frontend-challenge
+# E Commerce Website built using React.js
