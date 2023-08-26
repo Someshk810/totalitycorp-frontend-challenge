@@ -13,7 +13,7 @@ This repository contains the codebase for an E-commerce website developed using 
 
 # Tech Stack
 **1- React.js:** A JavaScript library for building user interfaces, particularly for creating 
-   dynamic and interactive web applications.__  
+   dynamic and interactive web applications.   
 **2- HTML:** HyperText Markup Language, used for structuring the content and elements of a webpage.  
 **3- CSS:** Cascading Style Sheets, used for styling the visual presentation and layout of HTML 
    elements.
